@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test_task_omertex</string>
+    <string name="placeholder_body" formatted="false">Title: %1$s %nBody: %2$s</string>
+    <string name="unsplash_body" formatted="false">User: %1$s %n<b>Location:</b> %2$s</string>
+    <string name="unsplash_api">Unsplash API</string>
+    <string name="placeholder_api">Placeholder API</string>
+</resources>
